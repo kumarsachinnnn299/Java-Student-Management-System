@@ -1,3 +1,9 @@
 # Java-Student-Management-System
-#Deployed: https://student-management-system-wvqc.onrender.com/
-#Sprinboot app with backend as well as frontend for Student management. 
+Deployed: https://student-management-system-wvqc.onrender.com/
+
+(Deployed at free server so loading may take 3-5 minutes.)
+
+This is a simple project that provides the user with CRUD operations on Students database.
+The backend is handled with Springboot.
+Frontend is made with Thymeleaf
+
