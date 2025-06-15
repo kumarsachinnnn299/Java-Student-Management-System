@@ -1,5 +1,5 @@
 # Java-Student-Management-System
-Deployed: https://student-management-system-wvqc.onrender.com/
+Deployed: https://student-management-system-hlrz.onrender.com/
 
 (Deployed at free server so loading may take 3-5 minutes.)
 
